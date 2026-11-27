@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="light">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#4f46e5"><title>AETHERIA — Equipamiento de Audio</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="css/variables.css"><link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/components.css"><link rel="stylesheet" href="css/pages.css">
+</head>
+<body>
+  <header class="navbar"><div class="container nav-content">
+    <a class="brand" href="index.html"><span class="brand-icon">A</span>AETHERIA</a>
+    <nav class="nav-links"><a class="nav-link active" href="index.html">Inicio</a><a class="nav-link" href="catalogo.html">Catálogo</a><a class="nav-link" href="contacto.html">Contacto</a></nav>
+    <div class="nav-actions"><button class="icon-btn" id="themeToggleBtn" title="Cambiar tema">◐</button><a class="icon-btn" href="carrito.html" title="Favoritos">♥<span class="badge" id="favBadge">0</span></a><a class="icon-btn" href="carrito.html" title="Carrito">🛒<span class="badge" id="cartBadge">0</span></a><div id="authHeaderArea"></div></div>
+  </div></header>
+  <main class="container">
+    <section class="hero"><div><span class="hero-tag">Sonido / Diseño / Tecnología</span><h1>El futuro suena extraordinario.</h1><p>Herramientas profesionales de audio y tecnología para quienes crean, producen y escuchan sin límites.</p><a class="btn btn-primary" href="catalogo.html">Explorar catálogo →</a></div><div class="hero-visual"><img src="img/p1.svg" alt="Audífonos Aetheria" style="width:min(300px,85%); height:auto;"></div></section>
+    <section><div style="display:flex;justify-content:space-between;align-items:end;margin-bottom:1.25rem"><div><span class="hero-tag">Selección</span><h2>Productos destacados</h2></div><a class="btn btn-secondary" href="catalogo.html">Ver todo</a></div><div class="product-grid" id="featuredProductsGrid"></div></section>
+  </main>
+  <footer><div class="container">© 2026 AETHERIA · Equipamiento de audio y tecnología</div></footer>
+  <div id="globalModalsContainer"></div><div class="toast-container" id="toastContainer"></div>
+  <script src="js/main.js"></script><script src="js/inicio.js"></script>
+</body></html>

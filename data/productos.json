@@ -1,0 +1,142 @@
+[
+  {
+    "id": "p1",
+    "nombre": "Aetheria Studio Pro X1",
+    "categoria": "Audio",
+    "precio": 6990,
+    "destacado": true,
+    "imagen": "img/p1.svg",
+    "descripcion": "Audífonos de referencia abiertos con transductores de berilio de 50mm y respuesta plana de estudio.",
+    "specs": ["Drivers 50mm Berilio", "Impedancia 32 Ohms", "Cable trenzado OFC", "Peso ultraligero 260g"]
+  },
+  {
+    "id": "p2",
+    "nombre": "Monitor Activo Pulse M5",
+    "categoria": "Audio",
+    "precio": 11800,
+    "destacado": true,
+    "imagen": "img/p2.svg",
+    "descripcion": "Monitor de campo cercano bi-amplificado Clase D con calibración acústica DSP integrada.",
+    "specs": ["Potencia 140W RMS", "Woofer Kevlar 5.25\"", "Rango 42Hz - 24kHz", "Entradas XLR / TRS"]
+  },
+  {
+    "id": "p3",
+    "nombre": "Sintetizador Polifónico Nova-8",
+    "categoria": "Sintetizadores",
+    "precio": 15600,
+    "destacado": true,
+    "imagen": "img/p3.svg",
+    "descripcion": "Sintetizador híbrido analógico-digital de 8 voces con secuenciador por pasos y pantalla OLED.",
+    "specs": ["8 Voces Polifónicas", "Filtro Analógico Ladder", "128 Presets de fábrica", "MIDI USB & DIN"]
+  },
+  {
+    "id": "p4",
+    "nombre": "Teclado Mecánico Tactile 75%",
+    "categoria": "Periféricos",
+    "precio": 3700,
+    "destacado": true,
+    "imagen": "img/p4.svg",
+    "descripcion": "Chasis de aluminio mecanizado CNC con switches lineales lubricados y montaje gasket-mount.",
+    "specs": ["Aluminio Aeroespacial", "Hot-Swappable PCB", "Keycaps PBT Double-shot", "Conectividad Tri-Mode"]
+  },
+  {
+    "id": "p5",
+    "nombre": "Micrófono Condensador Vocalis",
+    "categoria": "Audio",
+    "precio": 4800,
+    "destacado": false,
+    "imagen": "img/p5.svg",
+    "descripcion": "Cápsula de diafragma grande bañada en oro ideal para voces, podcasts e instrumentos acústicos.",
+    "specs": ["Patrón Cardioide", "Ruido propio 7dBA", "Filtro Paso Alto 80Hz", "Incluye Shockmount"]
+  },
+  {
+    "id": "p6",
+    "nombre": "Interfaz DAC/AMP Flux-2",
+    "categoria": "Sintetizadores",
+    "precio": 6200,
+    "destacado": false,
+    "imagen": "img/p6.svg",
+    "descripcion": "Conversión de audio de 32-bit/384kHz con preamplificadores ultratransparentes de clase A.",
+    "specs": ["32-bit / 384kHz ESS", "2 Preamps Clase A", "Latencia Cero Directa", "Alimentación USB-C"]
+  },
+  {
+    "id": "p7",
+    "nombre": "Mouse Ergonómico Precision Air",
+    "categoria": "Periféricos",
+    "precio": 2300,
+    "destacado": false,
+    "imagen": "img/p7.svg",
+    "descripcion": "Sensor óptico de 26,000 DPI y estructura de 54 gramos diseñada para flujos de edición creativos.",
+    "specs": ["Sensor 26K DPI", "Peso 54 gramos", "Batería 90 horas", "Switches Ópticos"]
+  },
+  {
+    "id": "p8",
+    "nombre": "Cable Balanceado XLR Master",
+    "categoria": "Accesorios",
+    "precio": 1300,
+    "destacado": false,
+    "imagen": "img/p8.svg",
+    "descripcion": "Cable de interconexión blindado de cobre libre de oxígeno con conectores chapados en oro de 24k.",
+    "specs": ["Longitud 3 metros", "Doble blindaje trenzado", "Conectores Neutrik Gold", "Garantía de por vida"]
+  },
+  {
+    "id": "p9",
+    "nombre": "Subwoofer de Estudio Sub-10",
+    "categoria": "Audio",
+    "precio": 12800,
+    "destacado": false,
+    "imagen": "img/p2.svg",
+    "descripcion": "Subwoofer activo de 10 pulgadas con recinto sellado para extensión precisa de subgraves hasta 24Hz.",
+    "specs": ["Woofer 10\" Compuesto", "Amplificador 300W RMS", "Crossover Ajustable", "Bypass por Pedal"]
+  },
+  {
+    "id": "p10",
+    "nombre": "Controlador Pad Matrix-16",
+    "categoria": "Sintetizadores",
+    "precio": 5500,
+    "destacado": false,
+    "imagen": "img/p3.svg",
+    "descripcion": "Matriz de 16 pads sensibles a la velocidad y aftertouch polifónico para producción y live looping.",
+    "specs": ["16 Pads RGB Sensibles", "Aftertouch Polifónico", "8 Encoders Infinitos", "Integración DAW Total"]
+  },
+  {
+    "id": "p11",
+    "nombre": "Monitor Ultrawide StudioView 34\"",
+    "categoria": "Periféricos",
+    "precio": 13800,
+    "destacado": false,
+    "imagen": "img/p4.svg",
+    "descripcion": "Panel IPS curvo WQHD de 34 pulgadas con calibración de color Delta E < 1 y hub USB-C de 90W.",
+    "specs": ["Resolución 3440x1440", "100% sRGB / 98% DCI-P3", "Hub USB-C 90W PD", "Soporte Ergonómico"]
+  },
+  {
+    "id": "p12",
+    "nombre": "Panel Acústico Absorbente Hexa",
+    "categoria": "Accesorios",
+    "precio": 2900,
+    "destacado": false,
+    "imagen": "img/p8.svg",
+    "descripcion": "Set de 6 paneles acústicos de lana mineral de alta densidad revestidos en tela fonoacústica.",
+    "specs": ["Pack de 6 Unidades", "Coeficiente NRC 0.95", "Instalación Magnética", "Ignífugo Clase A"]
+  },
+  {
+    "id": "p13",
+    "nombre": "Monitores In-Ear Aether Stage",
+    "categoria": "Audio",
+    "precio": 3900,
+    "destacado": false,
+    "imagen": "img/p1.svg",
+    "descripcion": "Auriculares intraurales híbridos de triple driver con aislamiento pasivo de hasta 28dB para escenario.",
+    "specs": ["1 Driver Dinámico + 2 BA", "Conector MMCX Desmontable", "Aislamiento -28dB", "Estuche Rígido Incluido"]
+  },
+  {
+    "id": "p14",
+    "nombre": "Consola Mezcladora MixCore 8",
+    "categoria": "Sintetizadores",
+    "precio": 9000,
+    "destacado": false,
+    "imagen": "img/p6.svg",
+    "descripcion": "Mezcladora analógica de 8 canales con faders motorizados, efectos DSP y grabación multipista USB.",
+    "specs": ["8 Canales Estéreo/Mono", "Faders de 100mm", "24 Efectos DSP 32-bit", "Grabación SD Multipista"]
+  }
+]
